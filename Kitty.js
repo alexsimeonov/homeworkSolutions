@@ -1,7 +1,7 @@
 // Input.
 let input = [
-    'x@x**@@@@x',
-    '3 2 -5 19',
+    '@@x*@@**@@@x',
+    '1 2 2 -5 19',
 ];
 
 // Custom implementation of read and print. Do not touch : )
